@@ -1,0 +1,20 @@
+{
+    "Logistic Regression": {
+        "C": 100
+    },
+    "Support Vector Machine": {
+        "C": 0.1,
+        "kernel": "rbf"
+    },
+    "Random Forest": {
+        "max_depth": 30,
+        "n_estimators": 200
+    },
+    "Neural Network": {
+        "activation": "relu",
+        "hidden_layer_sizes": [
+            100,
+            50
+        ]
+    }
+}
